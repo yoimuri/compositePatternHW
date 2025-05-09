@@ -40,3 +40,10 @@ Calculating and displaying the total number of students in a College.
 
 Calculating and displaying the total budget of a College.
 
+
+
+
+
+![image](https://github.com/user-attachments/assets/10cf6521-afe5-42b2-bc12-03a79c09856f)
+
+
